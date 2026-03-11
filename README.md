@@ -1,37 +1,48 @@
+<h1 align="center">Hi 👋, I'm Ayush Chaurasia</h1>
+
 <p align="center">
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&duration=3000&color=00F7FF&center=true&vCenter=true&width=600&lines=Hi+I'm+Ayush+Chaurasia;Full+Stack+Developer;Open+Source+Contributor;DSA+Learner" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&duration=3000&color=00F7FF&center=true&vCenter=true&width=700&lines=Full+Stack+Developer;Java+%7C+NodeJS+%7C+React;DSA+Learner;Open+Source+Contributor" />
 </p>
 
 ---
 
-## 🚀 About Me
-- 🔭 I’m currently working on **Myself**
-- 🌱 I’m currently learning **Node.js and React**
-- 💬 Ask me about **JavaScript, Node.js, C++**
-- 📫 Reach me at **your-email@gmail.com**
+# 🚀 About Me
+
+- 🔭 I’m currently working on **Full Stack Projects**
+- 🌱 I’m currently learning **React & Node**
+- 💬 Ask me about **Java, JavaScript, NodeJS, DSA**
+- 📫 Reach me at **ayush.chaurasia.c24@glac.in**
 
 ---
 
-## 🌐 Socials
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin)](https://linkedin.com/)
-[![Instagram](https://img.shields.io/badge/Instagram-red?logo=instagram)](https://instagram.com/)
+# 🌐 Connect With Me
 
----
-## 🐍 Contribution Snake
+<p align="left">
 
-![snake gif](https://github.com/ayush-68789/ayush-68789/blob/output/github-contribution-grid-snake.svg)
----
+<a href="https://linkedin.com">
+<img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin"/>
+</a>
 
-## 🛠 Tech Stack
-![C](https://img.shields.io/badge/C-blue)
-![Java](https://img.shields.io/badge/Java-orange)
-![JavaScript](https://img.shields.io/badge/JavaScript-yellow)
-![NodeJS](https://img.shields.io/badge/NodeJS-green)
-![React](https://img.shields.io/badge/React-blue)
+<a href="https://instagram.com">
+<img src="https://img.shields.io/badge/Instagram-red?style=for-the-badge&logo=instagram"/>
+</a>
+
+</p>
 
 ---
 
-## 📊 GitHub Stats
+# 🛠 Tech Stack
+
+![Java](https://img.shields.io/badge/Java-orange?style=for-the-badge&logo=java)
+![JavaScript](https://img.shields.io/badge/JavaScript-yellow?style=for-the-badge&logo=javascript)
+![NodeJS](https://img.shields.io/badge/NodeJS-green?style=for-the-badge&logo=node.js)
+![React](https://img.shields.io/badge/React-blue?style=for-the-badge&logo=react)
+![C](https://img.shields.io/badge/C-blue?style=for-the-badge&logo=c)
+![C++](https://img.shields.io/badge/C++-purple?style=for-the-badge&logo=cplusplus)
+
+---
+
+# 📊 GitHub Stats
 
 ![Ayush's GitHub stats](https://github-readme-stats.vercel.app/api?username=ayush-68789&show_icons=true&theme=radical)
 
@@ -39,12 +50,34 @@
 
 ---
 
-## 🔥 GitHub Streak
+# 🔥 GitHub Streak
 
 ![GitHub Streak](https://streak-stats.demolab.com?user=ayush-68789&theme=radical)
 
 ---
 
-## 🏆 GitHub Trophies
+# 🏆 GitHub Trophies
 
 ![](https://github-profile-trophy.vercel.app/?username=ayush-68789&theme=radical&no-frame=false&no-bg=true&margin-w=4)
+
+---
+
+# 📈 Contribution Graph
+
+![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=ayush-68789&theme=react-dark)
+
+---
+
+# 🐍 Contribution Snake
+
+![snake gif](https://github.com/ayush-68789/ayush-68789/blob/output/github-contribution-grid-snake.svg)
+
+---
+
+# 👀 Profile Views
+
+![](https://komarev.com/ghpvc/?username=ayush-68789&color=blue)
+
+---
+
+⭐ From [Ayush Chaurasia](https://github.com/ayush-68789)

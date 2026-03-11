@@ -46,4 +46,4 @@
 
 ## 🏆 GitHub Trophies
 
-![trophy](https://github-profile-trophy.vercel.app/?username=ayush-68789&theme=radical)
+![](https://github-profile-trophy.vercel.app/?username=ayush-68789&theme=radical&no-frame=false&no-bg=true&margin-w=4)

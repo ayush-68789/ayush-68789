@@ -38,7 +38,7 @@
 ![NodeJS](https://img.shields.io/badge/NodeJS-green?style=for-the-badge&logo=node.js)
 ![React](https://img.shields.io/badge/React-blue?style=for-the-badge&logo=react)
 ![C](https://img.shields.io/badge/C-blue?style=for-the-badge&logo=c)
-![C++](https://img.shields.io/badge/C++-purple?style=for-the-badge&logo=cplusplus)
+
 
 ---
 

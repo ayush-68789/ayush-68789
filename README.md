@@ -11,6 +11,8 @@
 
 ---
 
+![snake gif](https://github.com/ayush-68789/ayush-68789/blob/output/github-contribution-grid-snake.svg)
+
 ## 🌐 Socials
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin)](https://linkedin.com/)
 [![Instagram](https://img.shields.io/badge/Instagram-red?logo=instagram)](https://instagram.com/)
@@ -28,18 +30,18 @@
 
 ## 📊 GitHub Stats
 
-![Ayush's GitHub stats](https://github-readme-stats.vercel.app/api?username=YOURUSERNAME&show_icons=true&theme=radical)
+![Ayush's GitHub stats](https://github-readme-stats.vercel.app/api?username=ayush-68789&show_icons=true&theme=radical)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=YOURUSERNAME&layout=compact&theme=radical)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ayush-68789&layout=compact&theme=radical)
 
 ---
 
 ## 🔥 GitHub Streak
 
-![GitHub Streak](https://streak-stats.demolab.com?user=YOURUSERNAME&theme=radical)
+![GitHub Streak](https://streak-stats.demolab.com?user=ayush-68789&theme=radical)
 
 ---
 
 ## 🏆 GitHub Trophies
 
-![trophy](https://github-profile-trophy.vercel.app/?username=YOURUSERNAME&theme=radical)
+![trophy](https://github-profile-trophy.vercel.app/?username=ayush-68789&theme=radical)

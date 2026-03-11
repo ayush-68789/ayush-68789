@@ -67,10 +67,9 @@
 ![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=ayush-68789&theme=react-dark)
 
 ---
-
 ## 🐍 Contribution Snake
 
-![Snake animation](https://raw.githubusercontent.com/ayush-68789/ayush-68789/output/github-contribution-grid-snake.gif)
+![Snake animation](https://raw.githubusercontent.com/ayush-68789/ayush-68789/output/github-contribution-grid-snake.svg)
 ---
 
 # 👀 Profile Views

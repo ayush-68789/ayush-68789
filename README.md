@@ -61,13 +61,7 @@
 ![](https://github-profile-trophy.vercel.app/?username=ayush-68789&theme=radical&no-frame=false&no-bg=true&margin-w=4)
 
 ---
----
 
-# 📅 Contribution Calendar
-
-![GitHub Calendar](https://ghchart.rshah.org/ayush-68789)
-
---
 # 📈 Contribution Graph
 
 ![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=ayush-68789&theme=react-dark)

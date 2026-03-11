@@ -42,6 +42,10 @@
 
 ---
 
+## 🐍 Contribution Snake
+![Snake animation](https://github.com/ayush-68789/ayush-68789/blob/output/github-contribution-grid-snake-dark.svg)
+
+---
 # 📊 GitHub Stats
 
 ![Ayush's GitHub stats](https://github-readme-stats.vercel.app/api?username=ayush-68789&show_icons=true&theme=radical)
@@ -56,20 +60,10 @@
 
 ---
 
-# 🏆 GitHub Trophies
-
-![](https://github-profile-trophy.vercel.app/?username=ayush-68789&theme=radical&no-frame=false&no-bg=true&margin-w=4)
-
----
-
 # 📈 Contribution Graph
 
 ![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=ayush-68789&theme=react-dark)
 
----
-## 🐍 Contribution Snake
-![Snake animation](https://github.com/ayush-68789/ayush-68789/blob/output/github-contribution-grid-snake-dark.svg)
----
 
 # 👀 Profile Views
 

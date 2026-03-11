@@ -11,12 +11,14 @@
 
 ---
 
-![snake gif](https://github.com/ayush-68789/ayush-68789/blob/output/github-contribution-grid-snake.svg)
-
 ## 🌐 Socials
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin)](https://linkedin.com/)
 [![Instagram](https://img.shields.io/badge/Instagram-red?logo=instagram)](https://instagram.com/)
 
+---
+## 🐍 Contribution Snake
+
+![snake gif](https://github.com/ayush-68789/ayush-68789/blob/output/github-contribution-grid-snake.svg)
 ---
 
 ## 🛠 Tech Stack

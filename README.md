@@ -68,8 +68,7 @@
 
 ---
 ## 🐍 Contribution Snake
-
-![Snake animation](https://raw.githubusercontent.com/ayush-68789/ayush-68789/output/github-contribution-grid-snake.svg)
+![Snake animation](https://github.com/ayush-68789/ayush-68789/blob/output/github-contribution-grid-snake-dark.svg)
 ---
 
 # 👀 Profile Views

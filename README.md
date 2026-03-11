@@ -11,7 +11,7 @@
 - 🔭 I’m currently working on **Full Stack Projects**
 - 🌱 I’m currently learning **React & Node**
 - 💬 Ask me about **Java, JavaScript, NodeJS, DSA**
-- 📫 Reach me at **ayush.chaurasia.c24@glac.in**
+- 📫 Reach me at **ayush.chaurasia68789@gmail.com**
 
 ---
 

@@ -19,11 +19,11 @@
 
 <p align="left">
 
-<a href="[https://linkedin.com](https://www.linkedin.com/in/ayush-chaurasia-a0963b326/)">
+<a href="https://www.linkedin.com/in/ayush-chaurasia-a0963b326/">
 <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin"/>
 </a>
 
-<a href="[https://instagram.com](https://www.instagram.com/eye_yush_/)">
+<a href="https://www.instagram.com/eye_yush_/">
 <img src="https://img.shields.io/badge/Instagram-red?style=for-the-badge&logo=instagram"/>
 </a>
 

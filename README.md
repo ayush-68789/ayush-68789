@@ -46,13 +46,7 @@
 ![Snake animation](https://github.com/ayush-68789/ayush-68789/blob/output/github-contribution-grid-snake-dark.svg)
 
 ---
-# 📊 GitHub Stats
 
-![Ayush's GitHub stats](https://github-readme-stats.vercel.app/api?username=ayush-68789&show_icons=true&theme=radical)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ayush-68789&layout=compact&theme=radical)
-
----
 
 # 🔥 GitHub Streak
 

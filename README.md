@@ -2,8 +2,6 @@
 
 <p align="center">
 <img src="https://komarev.com/ghpvc/?username=ayush-68789&label=Profile%20Views&color=0e75b6&style=for-the-badge" />
-<img src="https://img.shields.io/github/followers/ayush-68789?label=Followers&style=for-the-badge" />
-<img src="https://img.shields.io/github/stars/ayush-68789?label=Stars&style=for-the-badge" />
 </p>
 
 <p align="center">

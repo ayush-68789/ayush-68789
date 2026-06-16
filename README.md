@@ -1,10 +1,6 @@
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=280&color=gradient&text=Ayush%20Chaurasia&fontSize=55&fontAlignY=40&animation=fadeIn&desc=Full%20Stack%20Developer%20|%20JAVA%20Learner%20&descAlignY=60"/>
 
 <p align="center">
-<img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=700&size=28&duration=3000&pause=1000&color=36BCF7&center=true&vCenter=true&width=900&lines=👋+Welcome+to+my+GitHub+Profile;Full+Stack+Developer;Java Learner+%26+Mentor;MERN+Stack+Dev;AI+Enthusiast;Building+Scalable+Web+Applications" />
-</p>
-
-<p align="center">
 <img src="https://komarev.com/ghpvc/?username=ayush-68789&label=Profile%20Views&color=0e75b6&style=for-the-badge" />
 <img src="https://img.shields.io/github/followers/ayush-68789?label=Followers&style=for-the-badge" />
 <img src="https://img.shields.io/github/stars/ayush-68789?label=Stars&style=for-the-badge" />

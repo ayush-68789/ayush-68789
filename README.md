@@ -93,3 +93,10 @@
 ---
 
 ⭐ From [Ayush Chaurasia](https://github.com/ayush-68789)
+
+
+<p align="center">
+⭐ Thanks for visiting my profile! Feel free to connect, collaborate, and build something amazing together.
+</p>
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=150&section=footer&color=gradient"/>

@@ -15,7 +15,7 @@
 </defs>
 <rect width="1000" height="520" fill="#070b16"/><rect width="1000" height="520" fill="url(#dots)"/>
 
-<defs><clipPath id="nameMask"><rect x="48" y="235" width="440" height="90"><animate attributeName="y" from="235" to="145" dur="1.4s" begin="0s" fill="freeze"/></rect></clipPath></defs>
+<defs><clipPath id="nameMask"><rect x="48" y="250" width="520" height="155"><animate attributeName="y" from="250" to="92" dur="1.4s" begin="0s" fill="freeze"/></rect></clipPath></defs>
 <rect x="24" y="24" width="952" height="472" rx="28" fill="#0d1627" stroke="#24385d"/>
 <rect x="24" y="24" width="952" height="3" rx="2" fill="url(#edge)"/>
 <text x="62" y="82" class="mono" font-size="14" fill="#247bff">HELLO, I'M</text>

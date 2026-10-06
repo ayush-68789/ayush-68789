@@ -1,13 +1,3 @@
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=280&color=gradient&text=Ayush%20Chaurasia&fontSize=55&fontAlignY=40&animation=fadeIn&desc=Full%20Stack%20Developer%20|%20JAVA%20Learner%20&descAlignY=60"/>
-
-<p align="center">
-<img src="https://komarev.com/ghpvc/?username=ayush-68789&label=Profile%20Views&color=0e75b6&style=for-the-badge" />
-</p>
-
-<p align="center">
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&duration=3000&color=00F7FF&center=true&vCenter=true&width=700&lines=Full+Stack+Developer;Java+%7C+NodeJS+%7C+React;DSA+Learner;Open+Source+Contributor" />
-</p>
-
 <!-- ===== AYUSH PROFILE PLAYBOOK ===== -->
 
 <p align="center">
@@ -33,20 +23,6 @@
 <!-- ===== END AYUSH PROFILE PLAYBOOK ===== -->
 
 ---
-
-# 🚀 About Me
-
----
-
-# 🚀 About Me
-
-- 🔭 I’m currently working on **Full Stack Projects**
-- 🌱 I’m currently learning **React & Node**
-- 💬 Ask me about **Java, JavaScript, NodeJS, DSA**
-- 📫 Reach me at **ayush.chaurasia68789@gmail.com**
-
----
-
 # 🌐 Connect With Me
 
 <p align="left">

@@ -8,6 +8,34 @@
 <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&duration=3000&color=00F7FF&center=true&vCenter=true&width=700&lines=Full+Stack+Developer;Java+%7C+NodeJS+%7C+React;DSA+Learner;Open+Source+Contributor" />
 </p>
 
+<!-- ===== AYUSH PROFILE PLAYBOOK ===== -->
+
+<p align="center">
+  <img src="./assets/hero.svg?v=1" alt="Ayush Chaurasia — GitHub Profile" width="100%">
+</p>
+
+<p align="center">
+  <img src="./assets/about-life.svg?v=1" alt="About Ayush Chaurasia" width="100%">
+</p>
+
+<p align="center">
+  <img src="./assets/stack.svg?v=1" alt="Ayush Chaurasia Technology Stack" width="100%">
+</p>
+
+<p align="center">
+  <img src="./assets/id-dashboard.svg?v=1" alt="Ayush Chaurasia Profile ID" width="100%">
+</p>
+
+<p align="center">
+  <img src="./assets/connect.svg?v=1" alt="Connect with Ayush Chaurasia" width="100%">
+</p>
+
+<!-- ===== END AYUSH PROFILE PLAYBOOK ===== -->
+
+---
+
+# 🚀 About Me
+
 ---
 
 # 🚀 About Me
